@@ -7,3 +7,4 @@ Easy-to-use discord bot that will protect your server from bots with captcha. Al
 </div>
 
 BOT INVITE: <a href="https://discordbots.org/bot/566995429330518026">Click Here</a>
+[![Run on Repl.it](https://repl.it/badge/github/treboryx/discord-bot-protection)](https://repl.it/github/treboryx/discord-bot-protection)
